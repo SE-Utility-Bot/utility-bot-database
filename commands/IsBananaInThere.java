@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class IsBananaInThere {
 	public static void main(String[] args) {
 		if (Arrays.stream(args).anyMatch("banana"::equals)) {
