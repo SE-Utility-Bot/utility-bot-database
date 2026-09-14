@@ -1,4 +1,3 @@
 !DATATYPE KeyValue
 javax.swing.text.ChangedCharSetException|1
 java.net.http.WebSocketHandshakeException|1
-java.awt.geom.NoninvertibleTransformException|1
